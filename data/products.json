@@ -10,7 +10,7 @@
       "wireless",
       "headphones"
     ],
-    "image": "./assets/product5.jpg",
+    "image": "assets/product5.jpg",
     "onSale": true
   },
   {
@@ -24,7 +24,7 @@
       "sports",
       "training"
     ],
-    "image": "./assets/product2.jpg",
+    "image": "assets/product2.jpg",
     "onSale": false
   },
   {
@@ -38,7 +38,7 @@
       "shoes",
       "running"
     ],
-    "image": "./assets/product3.jpg",
+    "image": "assets/product3.jpg",
     "onSale": true
   },
   {
@@ -52,7 +52,7 @@
       "summer",
       "fashion"
     ],
-    "image": "./assets/product4.jpg",
+    "image": "assets/product4.jpg",
     "onSale": false
   },
   {
@@ -66,7 +66,7 @@
       "smartphone",
       "android"
     ],
-    "image": "./assets/product1.jpg",
+    "image": "assets/product1.jpg",
     "onSale": true
   },
   {
@@ -80,7 +80,7 @@
       "backpack",
       "travel"
     ],
-    "image": "./assets/product6.jpg",
+    "image": "assets/product6.jpg",
     "onSale": true
   },
   {
@@ -94,7 +94,7 @@
       "cotton",
       "casual"
     ],
-    "image": "./assets/product7.jpg",
+    "image": "assets/product7.jpg",
     "onSale": true
   }
 ]

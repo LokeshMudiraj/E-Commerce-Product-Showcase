@@ -5,7 +5,7 @@ let activeProduct = null;
 // Load Products
 async function loadProducts() {
   try {
-    const res = await fetch("./data/products.json");
+    const res = await fetch("data/products.json");
     products = await res.json();
     renderCategoryFilters();
     renderProducts();
