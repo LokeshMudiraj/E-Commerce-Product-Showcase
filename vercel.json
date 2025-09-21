@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "name": "E-Commerce-pProduct-Showcase",
+  "version": 2,
+  "name": "E-Commerce-Product-Showcase",
   "builds": [
     {
       "src": "index.html",
